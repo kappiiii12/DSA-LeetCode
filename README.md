@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
