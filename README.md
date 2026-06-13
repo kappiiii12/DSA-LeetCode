@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
