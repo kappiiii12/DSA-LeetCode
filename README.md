@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
