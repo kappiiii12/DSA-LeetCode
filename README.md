@@ -102,9 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
