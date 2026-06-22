@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
