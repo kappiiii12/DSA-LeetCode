@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
