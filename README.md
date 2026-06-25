@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
