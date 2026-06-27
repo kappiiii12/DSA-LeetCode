@@ -111,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
