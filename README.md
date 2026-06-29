@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
