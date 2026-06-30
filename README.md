@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0525-contiguous-array) |
