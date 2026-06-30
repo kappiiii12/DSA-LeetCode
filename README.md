@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0686-repeated-string-match) |
