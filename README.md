@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0027-remove-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0049-group-anagrams) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0136-single-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
