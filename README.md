@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Trie
 |  |
