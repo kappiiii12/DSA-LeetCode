@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
@@ -308,12 +310,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
