@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -303,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
