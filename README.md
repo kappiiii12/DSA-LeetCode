@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -98,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
