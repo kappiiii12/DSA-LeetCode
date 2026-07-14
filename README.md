@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
