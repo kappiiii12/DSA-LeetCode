@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
