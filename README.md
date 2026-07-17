@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0554-brick-wall) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0231-power-of-two) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
