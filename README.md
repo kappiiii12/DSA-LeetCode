@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Interactive
 |  |
