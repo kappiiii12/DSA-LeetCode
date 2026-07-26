@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
