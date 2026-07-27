@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kappiiii12/DSA-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0456-132-pattern) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
