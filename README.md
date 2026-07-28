@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -390,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0901-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kappiiii12/DSA-LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
